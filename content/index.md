@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Akshat Lal 1️⃣5️⃣
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+I’m a high school senior at Newmarket High School in Ontario who’s interested in pursuing the field of STEM specifically Computer Science and Engineering.
